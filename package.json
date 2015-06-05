@@ -1,0 +1,13 @@
+{
+  "name": "nw-demo",
+  "main": "index.html",
+  "window": {
+    "toolbar": false,
+    "frame": false,
+    "height": 300,
+    "width": 300
+  },
+  "dependencies": {
+    "imagemagick": "^0.1.3"
+  }
+}
